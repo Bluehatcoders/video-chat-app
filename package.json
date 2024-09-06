@@ -27,12 +27,12 @@
     "ejs": "^3.0.1",
     "express": "^4.16.4",
     "express-session": "^1.17.0",
-    "jsonwebtoken": "^8.5.1",
-    "mongoose": "^5.9.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^5.12.4",
     "passport": "^0.4.1",
     "passport-local": "^1.0.0",
-    "passport-local-mongoose": "^6.0.1",
+    "passport-local-mongoose": "^6.1.0",
     "simple-peer": "^9.5.0",
-    "socket.io": "^2.2.0"
+    "socket.io": "^3.0.0"
   }
 }
